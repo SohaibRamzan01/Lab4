@@ -1,0 +1,4 @@
+int a,b;
+a=12;
+b=65;
+Console.WrieLine("Addition of numbers is "+a+b);
