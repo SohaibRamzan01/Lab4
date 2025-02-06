@@ -7,8 +7,3 @@ int a,b;
 a=122;
 b=68;
 Console.WrieLine("Subtraction of numbers is "+a-b);
-
-int a,b;
-a=23;
-b=43;
-Console.WrieLine("Multiplication of numbers is "+a*b);
